@@ -1,0 +1,20 @@
+{
+  "name": "devops-microservice-platform",
+  "version": "1.0.0",
+  "description": "Simple Node.js microservice for DevOps learning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "devops",
+    "docker",
+    "nodejs",
+    "microservice"
+  ],
+  "author": "Jaydeep Chavda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
